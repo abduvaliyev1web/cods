@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="uzum.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="main">
+        <div class="engtepa"><i style="font-size: 20px; text-align: center;" class="fa-solid fa-location-dot"></i>&nbsp;&nbsp;&nbsp;&nbsp; Shahar: <a href="">Namangan</a>&nbsp;&nbsp;&nbsp;&nbsp;  Topshirish Punktlari &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   Uzumda soting  &nbsp;&nbsp;&nbsp;&nbsp; Savol-javoblar  &nbsp;&nbsp;&nbsp;&nbsp; Buyurtmalarim  &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-solid fa-circle"></i> &nbsp;&nbsp; O'zbekcha</div>
+        <div class="qidiruv"><img style="margin-left: 250px;" src="image-removebg-preview (4).png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;<img style="font-size: 50px;" src="image-removebg-preview (6).png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Mahsulotlar va turkumlar izlash"><i style="font-size: 30px; margin-top: 11px; border: 1px solid black; border-left: none;  background-color: rgb(200, 218, 233); width: 5vh; height: 4vh;   " class="fa-solid fa-magnifying-glass"></i>&nbsp;&nbsp; <button><i class="fa-regular fa-user"></i> &nbsp;&nbsp;Kirish</button><button><i class="fa-regular fa-heart"></i> &nbsp;&nbsp;Saralangan</button><button><i class="fa-solid fa-bag-shopping"></i> &nbsp;&nbsp;Savat</button></i></div>
+        <div class="turlar"><img style="margin-left: 250px;" src="image-removebg-preview (7).png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image-removebg-preview (8).png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image-removebg-preview (9).png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image-removebg-preview (10).png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button>Elektronika</button><button>Maishiy Texnika</button><button>Kiyim</button><button>Poyabzallar</button><button>Aksessuarlar</button><button>Go'zallik </button><button>Salomatlik</button><button>Yana</button></div>
+        <div class="reklama"><img style="width: 100%; height: 100%;" src="image-removebg-preview (11).png" alt=""></div><h1 style="margin-left: 300px;">Maktab bozori ></h1>
+        <div class="buyumlar">
+        <div class="ustun"><img style="width: 260px;  border-radius: 20px;" src="https://images.uzum.uz/cpg0ivbmdtjnp738cg00/original.jpg" alt=""><br>Maxsulot
+        10 ming so'm <br>1000 so'm</div>
+        <div class="ustun"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cpomge0sarnfdo98cdt0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+        <div class="ustun"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cq35gu8sarnfdo9acvs0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+        <div class="ustun"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cqlhl0vfrr8a72r6jm90/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+        <div class="ustun"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cqdqv34sslotj05lbb40/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+        </div>
+        <h1 style="margin-left: 300px; margin-top: -300px;">Mashxur ></h1>
+        <div class="buyumlar2">
+            <div class="ustun1"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cokjfi70sttt9lm500rg/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+            <div class="ustun1"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cdibqpf0tgqvlm59b1v0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+            <div class="ustun1"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cqmcp0sqvsse8leu98n0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+            <div class="ustun1"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cqg8247frr8a72r5hga0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+            <div class="ustun1"><img style="width: 260px; border-radius: 20px;" src="https://images.uzum.uz/cq5t1agsarnfdo9au850/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+        </div>
+        <div class="reklama2"><img style="width: 100%; height: 100%; margin-top: -200px;" src="image-removebg-preview (11).png" alt=""></div>
+        <h1 style="margin-left: 300px; margin-top: -140px;">Chilla bozori ></h1>
+        <div class="buyumlar3">
+         <div class="ustun2"><img style="width: 260px; border-radius: 20px;"  src="https://images.uzum.uz/cpg0ivbmdtjnp738cg00/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+         <div class="ustun2"><img style="width: 260px; border-radius: 20px;"  src="https://images.uzum.uz/cp6ur1tbnta2393fqob0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+         <div class="ustun2"><img style="width: 260px; border-radius: 20px;"  src="https://images.uzum.uz/cp6ur1tbnta2393fqob0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+         <div class="ustun2"><img style="width: 260px; border-radius: 20px;"  src="https://images.uzum.uz/cq7os9cqvss6ad8hlid0/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+         <div class="ustun2"><img style="width: 260px; border-radius: 20px;"  src="https://images.uzum.uz/cce3u8r20nsi6n4g8v70/original.jpg" alt=""><br>Maxsulot <br>
+        10 ming so'm <br>1000 so'mdan oyiga</div>
+        </div>
+        <div class="oxiri">
+            <h3>Biz haqimizda</h3>
+        <h3>Foydalanuvchilarga</h3>
+        <h3>Tadbirkorlarga</h3>
+        <h3>Ilovani yuklab olish</h3><br>
+        <h3>Topshirish punktlari </h3>
+        <h3>Biz bilan bog'lanish</h3>
+        <h3>Uzumda soting</h3>
+        </div>
+    </div>
+</body> 
+</html>
