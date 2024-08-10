@@ -1,0 +1,98 @@
+.main{
+    width: 100%;
+    height: 200vh;
+    background-color: rgb(255, 255, 255);
+}
+.engtepa{
+    width: 100%;
+    height: 3vh;
+    background-color: rgb(219, 214, 214);
+    padding-left: 300px;
+}
+.qidiruv{
+    width: 80%;
+    height: 6vh;
+    background-color: white;
+    display: flex;
+}
+.turlar{
+    width: 80%;
+    height: 4vh;
+    background-color: white;
+    display: flex;
+    padding-right: 400px;
+}
+input{
+    width: 50vh;
+    height: 4vh;
+    border: 1px solid black;
+    margin-top: 10px;
+    border-right: none;
+}
+button{
+    width: 15vh;
+    height: 4vh;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    background-color: white;
+    font-size: 15px;
+}
+.reklama{
+    width: 67%;
+    height: 45vh;
+    margin-left: 260px;
+    border-radius: 20px;
+}
+.reklama2{
+    width: 67%;
+    height: 45vh;
+    margin-left: 260px;
+    border-radius: 20px;
+}
+.ustun{
+   background-color: white;
+   width: 270px;
+   margin: 20px;
+   border-radius: 20px;
+}
+.buyumlar{
+margin-left: 240px;
+ margin-right: 310px;
+ display: flex;
+ height: 80vh;
+}
+.ustun1{
+    background-color: white;
+    width: 270px;
+    margin: 20px;
+    border-radius: 20px;
+ }
+ .buyumlar2{
+     margin-left: 240px;
+     margin-right: 310px;
+     display: flex;
+     height: 80vh;
+    }
+    .buyumlar3{
+        margin-left: 240px;
+        margin-right: 310px;
+        display: flex;
+        height: 80vh;
+       }
+       .ustun2{
+        background-color: white;
+        width: 270px;
+        margin: 20px;
+        border-radius: 20px;
+     }
+     h3{
+        margin-left: 270px;
+        margin-top: -200px;
+        font-size: 14PX;
+
+     }
+     .oxiri{
+        display: flex;
+     }
